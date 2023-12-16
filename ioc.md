@@ -12,5 +12,5 @@ If you have specific questions or if you'd like a more detailed explanation abou
 
 
 
-
+[我们到底为什么要用 IoC 和 AOP](https://www.cnblogs.com/RudeCrab/p/14365296.html)
 
